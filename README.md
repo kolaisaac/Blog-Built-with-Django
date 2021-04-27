@@ -1,6 +1,5 @@
 # Blog-Built-with-Django
 
-
 ### This is part of the `Zuri x I4G Training` task 
 
 A Beginner Training For Complete Tech Novices Or Beginners
